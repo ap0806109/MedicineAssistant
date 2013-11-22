@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C78E94A8-5AEE-4E89-832E-3367C91E9FA3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MedicineAssistant</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9192D91D-C902-4D10-9B1E-84AF8248358C</key>
+		<string>https://github.com/ap0806109/MedicineAssistant.git</string>
+		<key>AFEBD904-EB86-4268-ADCE-C65226766373</key>
+		<string>https://192.168.1.114/svn/ios_project/%E5%AE%A2%E6%88%B7%E7%AB%AF%E9%A1%B9%E7%9B%AE/%E5%8C%BB%E5%B8%88%E7%89%88/MedicineAssistant.xcodeproj</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9192D91D-C902-4D10-9B1E-84AF8248358C</key>
+		<string>../../MedicineAssistant</string>
+		<key>AFEBD904-EB86-4268-ADCE-C65226766373</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>AFEBD904-EB86-4268-ADCE-C65226766373</key>
+		<string>https://192.168.1.114/svn/ios_project</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://192.168.1.114/svn/ios_project/%E5%AE%A2%E6%88%B7%E7%AB%AF%E9%A1%B9%E7%9B%AE/%E5%8C%BB%E5%B8%88%E7%89%88/MedicineAssistant.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AFEBD904-EB86-4268-ADCE-C65226766373</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AFEBD904-EB86-4268-ADCE-C65226766373</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MedicineAssistant</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9192D91D-C902-4D10-9B1E-84AF8248358C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MedicineAssistant</string>
+		</dict>
+	</array>
+</dict>
+</plist>
